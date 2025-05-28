@@ -49,6 +49,3 @@ Welcome to an interactive simulation where **pathfinding meets unpredictability*
 
 Feel free to fork the repo, open issues, and submit pull requests. If you have ideas to make it even more dynamic or fun, I’d love to hear them! 💬
 
----
-
-This version should capture the attention of potential users or contributors, making it both informative and fun!
