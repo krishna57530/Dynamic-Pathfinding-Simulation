@@ -1,11 +1,11 @@
 # 🤖 **Dynamic A* Pathfinding Simulation - No Stuck Guarantee*\* 🚀
 
-Welcome to an interactive simulation where **pathfinding meets unpredictability**! This project uses the powerful **A\* (A-star)** algorithm to help a robot 🦾 navigate through a grid filled with **random obstacles**. The catch? **Obstacles appear dynamically** while the robot is moving, forcing it to adapt its path in real-time! 😱
+Welcome to an interactive simulation where **pathfinding meets unpredictability**! This project uses the powerful **Dynamic A\* (D-star)** algorithm to help a robot 🦾 navigate through a grid filled with **random obstacles**. The catch? **Obstacles appear dynamically** while the robot is moving, forcing it to adapt its path in real-time! 😱
 
 ## 🔍 **Features:**
 
 * **🔄 Dynamic Obstacle Generation**: Watch as obstacles are added randomly on the grid while the robot is on its path. Will it get stuck? 🤔 No, because the path is recalculated as needed!
-* **🧭 A* Pathfinding*\*: The robot uses the **A* algorithm*\* with a **Manhattan heuristic** to find the optimal path from the start to the goal. Fast and efficient! ⚡
+* **🧭 D* Pathfinding*\*: The robot uses the **D* algorithm*\* with a **Manhattan heuristic** to find the optimal path from the start to the goal. Fast and efficient! ⚡
 * **🎮 Real-time Visualization**: Pygame brings the action to life, showing the grid, robot movement, pathfinding steps, obstacles, and more!
 * **📊 Info Panel**: Get live updates on:
 
@@ -17,7 +17,7 @@ Welcome to an interactive simulation where **pathfinding meets unpredictability*
 ## 🛠 **How It Works:**
 
 1. The robot starts at the top-left corner of the grid.
-2. The robot calculates its path using the A\* algorithm to reach the goal at the bottom-right.
+2. The robot calculates its path using the D\* algorithm to reach the goal at the bottom-right.
 3. Random obstacles 🟫 are added periodically, forcing the robot to recalculate its path.
 4. Watch as the robot adapts in real-time to reach its destination without getting stuck!
 
@@ -25,7 +25,7 @@ Welcome to an interactive simulation where **pathfinding meets unpredictability*
 
 * **Python** 🐍
 * **Pygame** 🎮
-* **A* Pathfinding Algorithm*\* 💡
+* **D* Pathfinding Algorithm*\* 💡
 
 ## 🏃‍♂️ **Run It Locally**:
 
